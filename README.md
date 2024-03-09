@@ -1,6 +1,6 @@
 # Autobian  
 
-Automated install scripts and procedures for Debian > 12 "Bookworm".  
+Automated install scripts and procedures for Debian 12 "Bookworm".  
 
 # How to use  
 
