@@ -8,6 +8,6 @@ This repository contains three possible procedures to set up your Debian ISO for
 
 You can choose between:  
 
-> -**Downloading** Autobian's prebuilt ISO  
-> -**Using Autobian script** _(Not recommended)_  
-> -**Manual setup**  
+> **Downloading** Autobian's prebuilt ISO  
+> **Using Autobian script** _(Not recommended)_  
+> **Manual setup**  
